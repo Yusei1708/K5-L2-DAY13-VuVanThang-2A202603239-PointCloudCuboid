@@ -1,0 +1,65 @@
+frame,idx,label,dist_m,points_in,ground_gap_m,flags,bang_a_sha256
+s01f11,1,Car,6.0,2147,0.15,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f11,2,Bus,37.9,299,0.18,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f11,3,Car,24.2,178,0.16,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f11,4,Car,20.5,239,0.10,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f11,5,Car,36.5,66,0.11,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f11,6,Car,24.8,188,0.19,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,1,Car,10.1,801,0.15,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,2,Car,9.7,577,0.20,"632 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,3,Car,16.9,128,0.17,"47 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,4,Car,3.1,2848,0.17,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,5,Car,33.2,91,,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s01f57,6,Car,6.1,1437,0.13,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,1,Car,8.2,1013,0.19,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,2,Bus,7.2,3183,0.01,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,3,Car,15.1,454,0.11,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,4,Car,18.3,12,0.61,"đáy cao hơn mặt đường 0.61 m (lơ lửng?); 27 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,5,Car,29.8,0,0.24,hộp rỗng (0 điểm),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f03,6,Car,27.5,97,0.07,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,1,Car,16.5,58,0.35,"65 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,2,Car,13.2,0,0.63,"hộp rỗng (0 điểm); đáy cao hơn mặt đường 0.63 m (lơ lửng?); 21 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,3,Car,14.5,489,0.31,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,4,Car,13.7,0,0.59,hộp rỗng (0 điểm); đáy cao hơn mặt đường 0.59 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,5,Car,33.3,5,0.69,"đáy cao hơn mặt đường 0.69 m (lơ lửng?); 11 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,6,Car,13.8,456,0.15,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s02f23,7,Cyclist,16.4,56,0.05,"59 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,1,Car,14.0,614,0.10,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,2,Car,22.7,0,0.28,hộp rỗng (0 điểm),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,3,Car,36.5,0,0.43,hộp rỗng (0 điểm),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,4,Car,20.5,0,6.66,"hộp rỗng (0 điểm); đáy cao hơn mặt đường 6.66 m (lơ lửng?); 22 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,5,Car,26.1,0,0.95,hộp rỗng (0 điểm); đáy cao hơn mặt đường 0.95 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f24,6,Car,28.2,32,-0.59,đáy thấp hơn mặt đường 0.59 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,1,Cyclist,15.1,131,0.07,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,2,Car,8.7,775,0.78,đáy cao hơn mặt đường 0.78 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,3,Car,15.7,129,0.91,"đáy cao hơn mặt đường 0.91 m (lơ lửng?); 80 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,4,Car,5.0,494,1.05,đáy cao hơn mặt đường 1.05 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,5,Bus,26.2,272,1.05,đáy cao hơn mặt đường 1.05 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s03f55,6,Car,0.0,456,1.05,đáy cao hơn mặt đường 1.05 m (lơ lửng?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,1,Car,3.6,4634,0.27,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,2,Car,12.3,180,-0.62,"đáy thấp hơn mặt đường 0.62 m (chìm?); 82 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,3,Car,16.7,158,0.22,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,4,Car,18.6,106,-0.64,đáy thấp hơn mặt đường 0.64 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,5,Car,19.0,111,-0.42,đáy thấp hơn mặt đường 0.42 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,6,Car,28.2,0,-0.76,hộp rỗng (0 điểm); đáy thấp hơn mặt đường 0.76 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f02,7,Car,30.7,46,,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,1,Car,9.5,296,-0.56,đáy thấp hơn mặt đường 0.56 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,2,Car,10.0,290,-0.72,đáy thấp hơn mặt đường 0.72 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,3,Car,14.2,192,-0.56,"đáy thấp hơn mặt đường 0.56 m (chìm?); 69 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,4,Car,18.3,117,-0.48,đáy thấp hơn mặt đường 0.48 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,5,Car,17.7,128,-0.43,đáy thấp hơn mặt đường 0.43 m (chìm?),e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,6,Car,16.6,152,0.18,"83 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s04f17,7,Cyclist,16.7,67,0.97,"đáy cao hơn mặt đường 0.97 m (lơ lửng?); 49 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,1,Car,2.8,4041,0.24,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,2,Car,6.3,712,0.25,"438 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,3,Car,15.9,271,0.27,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,4,Car,14.7,168,0.25,"132 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,5,Car,11.9,264,0.14,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f04,6,Truck,13.2,82,-0.09,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,1,Car,6.7,1085,0.45,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,2,Car,15.6,74,-0.06,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,3,Car,5.5,852,-0.02,"548 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,4,Car,10.5,17,-0.28,"đáy thấp hơn mặt đường 0.28 m (chìm?); 34 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,5,Car,7.6,918,0.35,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,6,Car,7.7,322,-0.21,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
+s05f28,7,Car,14.5,106,-0.11,,e5446cf0de0ac9e120a8b9d4339811ca98cece1d0f02a16edc478627084c9285
